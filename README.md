@@ -20,35 +20,35 @@ The goal was to capture key network protocols and demonstrate packet analysis us
 ### 1. ICMP (Ping Traffic)
 > Captured Echo Request and Echo Reply packets.
 
-![ICMP Traffic](screenshots/icmp.png)
+![ICMP Traffic](Screenshots/icmp.png)
 
 ---
 
 ### 2. DNS (Domain Name System Lookup)
 > Captured DNS query and response during `nslookup`.
 
-![DNS Traffic](screenshots/dns.png)
+![DNS Traffic](Screenshots/dns.png)
 
 ---
 
 ### 3. TCP 3-Way Handshake
 > Captured the SYN → SYN-ACK → ACK sequence during a connection setup.
 
-![TCP Handshake](screenshots/tcp-handshake.png)
+![TCP Handshake](Screenshots/tcp-handshake.png)
 
 ---
 
 ### 4. TCP Port 80 Traffic (HTTP Attempt)
 > Captured TCP packets directed to Port 80 (HTTP protocol port), even though direct HTTP traffic was force-upgraded to HTTPS.
 
-![TCP Port 80 Traffic](screenshots/Captured%20TCP%20Port%2080%20Traffic%20(HTTP).png)
+![TCP Port 80 Traffic](Screenshots/Captured%20TCP%20Port%2080%20Traffic%20(HTTP).png)
 
 ---
 
 ### 5. Random Traffic Snapshot (Extra)
 > Captured miscellaneous background traffic.
 
-![Random Traffic](screenshots/RANDOMTRAFFIC.png)
+![Random Traffic](Screenshots/RANDOMTRAFFIC.png)
 
 ---
 
